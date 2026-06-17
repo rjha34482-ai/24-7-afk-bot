@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ultrateam.aternos.me",
+    "ip": "Ultrateam.aternos.me:28545",
     "port": 28545
     ,
     "version": "1.20.1",
